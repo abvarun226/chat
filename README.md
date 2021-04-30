@@ -1,6 +1,6 @@
 # chat server
 
-A very simple chat server where:
+A very simple chat server using `github.com/gorilla/websocket`
 * a user can send a private message to another user
 * a user can broadcast a message to all users currently online
 
